@@ -16,5 +16,6 @@ public static void main(String[] args) {
    	int valueNumPennies = numPennies;
    	int answer = valueNumQuarters + valueNumDimes + valueNumNickels + valueNumPennies; 
     JOptionPane.showMessageDialog(null, "you have"+ answer + "cents");
+    
 }
 }
