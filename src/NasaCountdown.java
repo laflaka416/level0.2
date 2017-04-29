@@ -33,7 +33,7 @@ import javax.swing.JOptionPane;
 			// 1. countdown from 10 to 0
 				
 				//String words = "blastoff!";
-				speak("zaira");
+				speak("blastoff!");
 			// 5. when the counting is done, print "blastoff!"
 		}
 
